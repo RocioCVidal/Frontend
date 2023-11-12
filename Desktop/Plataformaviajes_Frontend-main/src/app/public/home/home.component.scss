@@ -1,0 +1,97 @@
+#Primero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px; /* Puedes ajustar el margen superior según tus necesidades */
+    margin-bottom: 20px; /* Puedes ajustar el margen inferior según tus necesidades */
+}
+
+.text-center {
+    width: 100%;
+    text-align: center;
+}
+
+.imagen {
+    width: 100%;
+    height: auto;
+    display: block; /* Asegura que la imagen no tenga márgenes inferiores */
+    margin: 0; /* Elimina márgenes de la imagen */
+}
+
+
+#Dos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px; /* Ajusta según sea necesario */
+    margin-bottom: 20px; /* Ajusta según sea necesario */
+}
+
+.text-center {
+    width: 100%;
+    text-align: center;
+}
+
+#Dos img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; /* Ajusta el ancho según tus necesidades */
+    height: auto; /* Mantiene la proporción original */
+    display: block; /* Asegura que la imagen no tenga márgenes inferiores */
+    margin: 0; /* Elimina márgenes de la imagen */
+}
+
+
+
+
+#Tres {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px; /* Ajusta según sea necesario */
+    margin-bottom: 20px; /* Ajusta según sea necesario */
+}
+
+.text-center {
+    width: 100%;
+    text-align: center;
+}
+
+#Tres img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; /* Ajusta el ancho según tus necesidades */
+    height: auto; /* Mantiene la proporción original */
+    display: block; /* Asegura que la imagen no tenga márgenes inferiores */
+    margin: 0; /* Elimina márgenes de la imagen */
+}
+
+
+#Cuatro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px; /* Ajusta según sea necesario */
+    margin-bottom: 20px; /* Ajusta según sea necesario */
+}
+
+.text-center {
+    width: 100%;
+    text-align: center;
+}
+
+#Cuatro img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; /* Ajusta el ancho según tus necesidades */
+    height: auto; /* Mantiene la proporción original */
+    display: block; /* Asegura que la imagen no tenga márgenes inferiores */
+    margin: 0; /* Elimina márgenes de la imagen */
+}
+
+
+
